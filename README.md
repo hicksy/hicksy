@@ -1,7 +1,3 @@
-## [dynoxide.dev](https://dynoxide.dev)
-
-The DynamoDB emulator I'm building now.
-
 Software developer and AWS consultant in Manchester. Twenty years of it, mostly agency work, native mobile apps and cloud platforms, and more recently developer tools. I co-founded [Si Novi](https://sinovi.uk) in 2018.
 
 Si Novi is a software development studio and cloud consultancy. We build SaaS platforms and business operations software, and modernise and support systems that clients already run. To talk about a project, email [hello@sinovi.uk](mailto:hello@sinovi.uk) or use the [contact page](https://sinovi.uk/contact-us).
